@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25d9f3e7-b97c-4d7f-aaca-fdd7aca82b9e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wykres/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+              <folding>
+                <marker date="1559584392993" expanded="false" signature="6:124" ph="..." />
+                <marker date="1559584392993" expanded="true" signature="142:503" ph="{...}" />
+                <marker date="1559584392993" expanded="true" signature="169:501" ph="{...}" />
+                <marker date="1559584392993" expanded="true" signature="184:274" ph="/// The main entry point for the application. ... " />
+                <marker date="1559584392993" expanded="true" signature="321:495" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wykres/Form1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="62" column="10" lean-forward="true" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+              <folding>
+                <marker date="1560104318280" expanded="false" signature="6:244" ph="..." />
+                <marker date="1560104318280" expanded="true" signature="262:4204" ph="{...}" />
+                <marker date="1560104318280" expanded="true" signature="302:4202" ph="{...}" />
+                <marker date="1560104318280" expanded="true" signature="811:866" ph="{...}" />
+                <marker date="1560104318280" expanded="true" signature="930:1935" ph="{...}" />
+                <marker date="1560104318280" expanded="true" signature="1072:1113" ph="{...}" />
+                <marker date="1560104318280" expanded="true" signature="1194:1235" ph="{...}" />
+                <marker date="1560104318280" expanded="true" signature="1288:1625" ph="{...}" />
+                <marker date="1560104318280" expanded="true" signature="1404:1501" ph="{...}" />
+                <marker date="1560104318280" expanded="true" signature="1694:1770" ph="/* Console.Out.WriteLine(zeroX); ... */" />
+                <marker date="1560104318280" expanded="true" signature="1972:2366" ph="{...}" />
+                <marker date="1560104318280" expanded="true" signature="2428:2487" ph="{...}" />
+                <marker date="1560104318280" expanded="true" signature="2518:4196" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="WinFormsEditor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/wykres/Form1.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/wykres/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/wykres/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/wykres/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wykres/Form1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="265" />
+    <option name="y" value="17" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="wykres" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="wykres" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="wykres" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="wykres" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="wykres" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="wykres" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="wykres" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Resources.resx" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="wykres" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="wykres" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Settings.settings" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="wykres" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="wykres" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Form1.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/wykres/bin/Debug/wykres.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wykres/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/wykres/wykres.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25d9f3e7-b97c-4d7f-aaca-fdd7aca82b9e" name="Default Changelist" comment="" />
+      <created>1560100722476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560100722476</updated>
+      <workItem from="1560100731984" duration="3772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3772000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17847629" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32946146" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Build" weight="0.32946146" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30939808" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.19957761" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Designer Toolbox" side_tool="true" visible="true" weight="0.16835375" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wykres/Form1.resx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wykres/Form1.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <marker date="1560081007711" expanded="true" signature="16:4862" ph="{...}" />
+            <marker date="1560081007711" expanded="true" signature="42:4860" ph="{...}" />
+            <marker date="1560081007711" expanded="true" signature="57:133" ph="/// Required designer variable. ... " />
+            <marker date="1560081007711" expanded="true" signature="211:402" ph="/// Clean up any resources being used. ... " />
+            <marker date="1560081007711" expanded="true" signature="458:632" ph="{...}" />
+            <marker date="1560081007711" expanded="true" signature="519:585" ph="{...}" />
+            <marker date="1560081007711" expanded="false" signature="642:4602" ph="Windows Form Designer generated code" />
+            <marker date="1560081007711" expanded="true" signature="696:859" ph="/// Required method for Designer support - do not modify ... " />
+            <marker date="1560081007711" expanded="true" signature="902:4582" ph="{...}" />
+            <marker date="1560081007711" expanded="true" signature="1255:1291" ph="/* a ... */" />
+            <marker date="1560081007711" expanded="true" signature="1729:1770" ph="/* label1 ... */" />
+            <marker date="1560081007711" expanded="true" signature="2238:2274" ph="/* b ... */" />
+            <marker date="1560081007711" expanded="true" signature="2634:2675" ph="/* label2 ... */" />
+            <marker date="1560081007711" expanded="true" signature="3068:3110" ph="/* button1 ... */" />
+            <marker date="1560081007711" expanded="true" signature="3831:3871" ph="/* Form1 ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wykres/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <marker date="1559584392993" expanded="false" signature="6:124" ph="..." />
+            <marker date="1559584392993" expanded="true" signature="142:503" ph="{...}" />
+            <marker date="1559584392993" expanded="true" signature="169:501" ph="{...}" />
+            <marker date="1559584392993" expanded="true" signature="184:274" ph="/// The main entry point for the application. ... " />
+            <marker date="1559584392993" expanded="true" signature="321:495" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wykres/Form1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="62" column="10" lean-forward="true" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+          <folding>
+            <marker date="1560104318280" expanded="false" signature="6:244" ph="..." />
+            <marker date="1560104318280" expanded="true" signature="262:4204" ph="{...}" />
+            <marker date="1560104318280" expanded="true" signature="302:4202" ph="{...}" />
+            <marker date="1560104318280" expanded="true" signature="811:866" ph="{...}" />
+            <marker date="1560104318280" expanded="true" signature="930:1935" ph="{...}" />
+            <marker date="1560104318280" expanded="true" signature="1072:1113" ph="{...}" />
+            <marker date="1560104318280" expanded="true" signature="1194:1235" ph="{...}" />
+            <marker date="1560104318280" expanded="true" signature="1288:1625" ph="{...}" />
+            <marker date="1560104318280" expanded="true" signature="1404:1501" ph="{...}" />
+            <marker date="1560104318280" expanded="true" signature="1694:1770" ph="/* Console.Out.WriteLine(zeroX); ... */" />
+            <marker date="1560104318280" expanded="true" signature="1972:2366" ph="{...}" />
+            <marker date="1560104318280" expanded="true" signature="2428:2487" ph="{...}" />
+            <marker date="1560104318280" expanded="true" signature="2518:4196" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="WinFormsEditor" />
+    </entry>
+  </component>
+</project>

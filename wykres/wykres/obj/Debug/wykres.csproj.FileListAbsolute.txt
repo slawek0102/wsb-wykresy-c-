@@ -1,0 +1,10 @@
+C:\Users\Slawek\Desktop\wykres\wykres\wykres\bin\Debug\wykres.exe.config
+C:\Users\Slawek\Desktop\wykres\wykres\wykres\bin\Debug\wykres.exe
+C:\Users\Slawek\Desktop\wykres\wykres\wykres\bin\Debug\wykres.pdb
+C:\Users\Slawek\Desktop\wykres\wykres\wykres\obj\Debug\wykres.csprojAssemblyReference.cache
+C:\Users\Slawek\Desktop\wykres\wykres\wykres\obj\Debug\wykres.Form1.resources
+C:\Users\Slawek\Desktop\wykres\wykres\wykres\obj\Debug\wykres.Properties.Resources.resources
+C:\Users\Slawek\Desktop\wykres\wykres\wykres\obj\Debug\wykres.csproj.GenerateResource.cache
+C:\Users\Slawek\Desktop\wykres\wykres\wykres\obj\Debug\wykres.csproj.CoreCompileInputs.cache
+C:\Users\Slawek\Desktop\wykres\wykres\wykres\obj\Debug\wykres.exe
+C:\Users\Slawek\Desktop\wykres\wykres\wykres\obj\Debug\wykres.pdb
